@@ -1,3 +1,1 @@
-ID="a4ed6190-6c1d-40cd-bc47-f9fc822ac5d7";
-RUN_AFTER=loadstring(game:HttpGet("https://cdn.project-reverse.org/visual.luau"));
-loadstring(game:HttpGet("https://cdn.project-reverse.org/loader.luau"))();
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjkxYTcyOTI2LTE4NTAtNDM2ZS05MjVlLTFiYmFjMGU2Njc2NyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
